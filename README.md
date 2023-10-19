@@ -22,11 +22,15 @@ To run this program, you need to have the following installed:
 
 - Rust (https://www.rust-lang.org/tools/install)
 - Cargo (Rust's package manager)
-- A Rust IDE (e.g. VS Code)
+- Git (for version control)
 
 ### Installation
 
-1. Unzip and import files from ZIP folder into IDE of choice.
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone <https://github.com/pavelboukine/Rust_Takehome>
+
 2. Change into the project directory: cd rust-graphql-server
 3. Build the project: cargo build
 
